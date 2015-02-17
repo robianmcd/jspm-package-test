@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/robianmcd/jspm-package-test/issues"
   },
-  "homepage": "https://github.com/robianmcd/jspm-package-test"
+  "homepage": "https://github.com/robianmcd/jspm-package-test",
+  "dependencies": {
+    "rtts-assert": "^2.0.0-alpha.7"
+  }
 }
