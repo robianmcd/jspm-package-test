@@ -2,7 +2,7 @@
   "name": "jspm-package-test",
   "version": "1.0.0",
   "description": "a sandbox for creating jspm packages",
-  "main": "src/mod1.js",
+  "main": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/robianmcd/jspm-package-test.git"
