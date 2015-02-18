@@ -5,9 +5,6 @@
     "lib": "src"
   },
   "format": "es6",
-  "dependencies": {
-    "rtts-assert": "npm:rtts-assert@^0.0.7"
-  },
   "map": {
     "myPkg": "."
   }
