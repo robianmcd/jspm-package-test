@@ -7,8 +7,7 @@ System.config({
 
 System.config({
   "map": {
-    "rtts-assert": "npm:rtts-assert@0.0.7",
-    "myPkg": "."
+    "rtts-assert": "npm:rtts-assert@0.0.7"
   }
 });
 
