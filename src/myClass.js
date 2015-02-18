@@ -10,3 +10,5 @@ class MyClass {
         console.log('doing something');
     }
 }
+
+export default MyClass;
