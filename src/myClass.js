@@ -1,4 +1,4 @@
-import MyAnno from 'myAnno';
+import MyAnno from 'myPkg/myAnno';
 
 @MyAnno('testing')
 class MyClass {
