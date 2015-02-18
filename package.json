@@ -1,11 +1,11 @@
 {
-  "registry": "npm",
+  "registry": "jspm",
   "main": false,
   "directories": {
     "lib": "src"
   },
   "format": "es6",
   "dependencies": {
-    "rtts-assert": "^2.0.0-alpha.7"
+    "rtts-assert": "npm:rtts-assert@^0.0.7"
   }
 }
